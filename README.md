@@ -1,6 +1,13 @@
 
 [Visita nuestro sitio web](https://controldegastosmensuales.streamlit.app/)
 
+Con los siguientes datos de ejemplo:
+
+Usuario: `b`
+Contraseña: `1`
+
+Estos son datos ficticios para demostrar el uso del sistema.
+
 # Control de Gastos Mensuales
 
 ## Descripción del Aplicativo
