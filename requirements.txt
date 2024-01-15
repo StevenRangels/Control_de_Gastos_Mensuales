@@ -1,0 +1,9 @@
+streamlit 
+matplotlib
+pandas
+seaborn
+plotly.express
+pylint
+
+
+
